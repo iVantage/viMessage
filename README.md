@@ -1,6 +1,6 @@
 # viMessage
 
-This Vim plugin enables users to instant message each other across a shared 
+This Vim plugin enables users to instant message each other across a shared drive. 
 ![Screenshot](https://trello-attachments.s3.amazonaws.com/5314a3eb848eb79b42836894/5374c4f5c6154a6047fe69fe/841x598/706353f88ef04b341eb6127eb3012fc3/screenShot.png)
 
 ## Table of Contents
@@ -58,7 +58,7 @@ After installing viMessage, change g:username to whatever name you prefer. This 
 
 ## FileRefresh
 
-viMessage is powered largely by the FileRefresh plugin. FileRefresh must therefore be installed in order for viMessage to work. FileRefresh can be found at (https://github.com/iVantage/FileRefresh)
+viMessage is powered by the FileRefresh plugin. FileRefresh must therefore be installed in order for viMessage to work. FileRefresh can be found at (https://github.com/iVantage/FileRefresh)
 
 #viMessage Commands
 
